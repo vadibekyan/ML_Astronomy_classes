@@ -1,0 +1,22 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu													
+# Sun Jan  4 05:32:29 2026													
+#													
+# User preference: *													
+#													
+# CONSTRAINT:  where (default_flag = 1)													
+#													
+# COLUMN pl_name:        Planet Name													
+# COLUMN hostname:       Host Name													
+# COLUMN default_flag:   Default Parameter Set													
+# COLUMN sy_snum:        Number of Stars													
+# COLUMN sy_pnum:        Number of Planets													
+# COLUMN discoverymethod: Discovery Method													
+# COLUMN disc_year:      Discovery Year													
+# COLUMN pl_orbper:      Orbital Period [days]													
+# COLUMN pl_orbsmax:     Orbit Semi-Major Axis [au]													
+# COLUMN pl_rade:        Planet Radius [Earth Radius]													
+# COLUMN pl_bmasse:      Planet Mass or Mass*sin(i) [Earth Mass]													
+# COLUMN pl_eqt:         Equilibrium Temperature [K]													
+# COLUMN st_teff:        Stellar Effective Temperature [K]													
+# COLUMN st_met:         Stellar Metallicity [dex]													
+#													
